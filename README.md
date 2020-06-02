@@ -1,2 +1,0 @@
-# guli-shop
-guli-shop
